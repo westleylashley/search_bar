@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9435B36C78C9EB68BF5CA3D9C97DED9D6CF715FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9435B36C78C9EB68BF5CA3D9C97DED9D6CF715FD" : 9223372036854775807,
+    "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF1A0A04-D7A7-474E-BB75-6FFA302D8CED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9435B36C78C9EB68BF5CA3D9C97DED9D6CF715FD" : "search-bar-example\/",
+    "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "search-bar-example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "search-bar-example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/westleylashley\/playgrounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/westleylashley\/search_bar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9435B36C78C9EB68BF5CA3D9C97DED9D6CF715FD"
+    }
+  ]
+}

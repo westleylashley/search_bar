@@ -59,7 +59,6 @@ class TableViewController: UITableViewController, UISearchBarDelegate {
     }
 
     // MARK: - Table view data source
-
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "Cell", for: indexPath) as UITableViewCell
         cell.textLabel?.text = filteredData[indexPath.row]
